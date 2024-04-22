@@ -1,0 +1,14 @@
+.h1 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #333; /* Color gris oscuro */
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+
+.ul {
+    font-size: 18px;
+    color: #333;
+    text-align: center; /* Centra el <ul> */
+  }

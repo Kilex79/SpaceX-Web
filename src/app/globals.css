@@ -31,3 +31,9 @@ body {
     text-wrap: balance;
   }
 }
+
+/* Agrega este estilo para mantener el color hover después de hacer clic en un enlace */
+.hover-active {
+  background-color: #2d3748; /* Cambia este color según tu preferencia */
+  color: #ffffff; /* Cambia este color según tu preferencia */
+}
